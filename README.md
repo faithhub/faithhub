@@ -1,4 +1,4 @@
-![Backend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Backend Developer](https://github.com/faithhub/faithhub/blob/main/faithhub-github-banner.jpg)
 ### Hi there 👋
 ### Hi there 👋, Faith Amao
 #### Backend Developer
