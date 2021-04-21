@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Faith from Lagos, and I do Backend Development. I really enjoy learning languages and frameworks like PHP, Node Js, Laravel, Bootstrap and Vue Js, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+I'm Faith from Lagos, and I do Backend Development. I really enjoy learning languages and frameworks like PHP, Node Js, Laravel, Bootstrap and Vue Js, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. You can check out my twitter at https://twitter.com/Faith_Oluwadara.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faithhub)](https://github.com/anuraghazra/github-readme-stats)
 
