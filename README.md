@@ -1,5 +1,4 @@
 ![Backend Developer](https://github.com/faithhub/faithhub/blob/main/faithhub-github-banner.jpg)
-### Hi there 👋
 ### Hi there 👋, Faith Amao
 #### Backend Developer
 
