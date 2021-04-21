@@ -1,5 +1,5 @@
 ![Backend Developer](https://github.com/faithhub/faithhub/blob/main/faithhub-github-banner.jpg)
-## Hi there 👋, Faith Amao
+## Hi! 👋, I'm - `HSLA(540,70%,50%,0.3)` Faith Amao
 I'm Faith from Lagos, and I do Backend Development. I really enjoy learning languages and frameworks like PHP, Node Js, Laravel, Bootstrap and Vue Js, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. You can check out my twitter at https://twitter.com/Faith_Oluwadara
 ## :computer: Skills
 * PHP
