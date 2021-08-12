@@ -10,4 +10,4 @@ I'm Glory from Lagos, and I do Backend Development. I really enjoy learning lang
 * LARAVEL
 * Codeigniter
 ## :zap: Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faithhub&show_icons=true&theme=dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faithhub&show_icons=true&theme=dark) -->
