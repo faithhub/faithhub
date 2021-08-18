@@ -1,4 +1,4 @@
-![Backend Developer](https://github.com/faithhub/faithhub/blob/main/faithhub-github-banner.jpg)
+![Backend Developer](https://amaofaith.com/assets/img/resume.png)
 ## Hi! 👋, I'm  [Faith Amao](amaofaith.o@gmail.com) :blush:
 I'm Glory from Lagos, and I do Backend Development. I really enjoy learning languages and frameworks like PHP, Node Js, Laravel, Bootstrap and Vue Js, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 ## :computer: Skills and Experience
